@@ -1,0 +1,6 @@
+{
+  "name": "Lumé — Artisanal Fine Jewelry",
+  "description": "Timeless, handcrafted luxury jewelry made with 18k solid gold, recycled precious metals, and natural freshwater pearls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
